@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0155-min-stack) |
+| [0735-asteroid-collision](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0901-online-stock-span) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -26,10 +27,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0735-asteroid-collision) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0020-valid-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
