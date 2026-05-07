@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0641-design-circular-deque) |
 | [0695-max-area-of-island](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0946-validate-stack-sequences) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
+| [0721-accounts-merge](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0721-accounts-merge) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Simulation
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0997-find-the-town-judge) |
 ## Greedy
@@ -187,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Counting
 |  |
@@ -207,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0721-accounts-merge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
