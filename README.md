@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0049-group-anagrams) |
 | [0200-number-of-islands](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0239-sliding-window-maximum) |
 | [0542-01-matrix](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0542-01-matrix) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0049-group-anagrams) |
 | [0257-binary-tree-paths](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
 | [0721-accounts-merge](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0929-unique-email-addresses) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0202-happy-number) |
 | [0621-task-scheduler](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0721-accounts-merge) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0049-group-anagrams) |
 | [0621-task-scheduler](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
