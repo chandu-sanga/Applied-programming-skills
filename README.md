@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0641-design-circular-deque) |
 | [0735-asteroid-collision](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0946-validate-stack-sequences) |
+| [0997-find-the-town-judge](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0997-find-the-town-judge) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## String
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0997-find-the-town-judge](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0997-find-the-town-judge) |
 ## Greedy
 |  |
 | ------- |
@@ -182,5 +184,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
