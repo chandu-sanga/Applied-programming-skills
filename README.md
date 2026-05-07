@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0239-sliding-window-maximum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0322-coin-change) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0621-task-scheduler) |
@@ -209,12 +210,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0169-majority-element) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0973-k-closest-points-to-origin) |
