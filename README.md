@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0202-happy-number) |
 | [0621-task-scheduler](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -244,4 +245,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0542-01-matrix) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
