@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0239-sliding-window-maximum) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0542-01-matrix](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0622-design-circular-queue) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Tree
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Union-Find
 |  |
 | ------- |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0190-reverse-bits) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0973-k-closest-points-to-origin](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0973-k-closest-points-to-origin) |
 | [1763-longest-nice-substring](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/1763-longest-nice-substring) |
 ## Bit Manipulation
@@ -291,4 +295,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0973-k-closest-points-to-origin) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/chandu-sanga/Applied-programming-skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
